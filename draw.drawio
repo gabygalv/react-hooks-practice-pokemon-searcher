@@ -1,0 +1,76 @@
+<mxfile host="65bd71144e">
+    <diagram id="TCMgQBzZ4VZ_70iZN19a" name="Page-1">
+        <mxGraphModel dx="1857" dy="1598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="17" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="18">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-510" y="-434.79999999999995" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="App" style="ellipse" vertex="1" parent="1">
+                    <mxGeometry x="-291.12706249999997" y="-450" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="PokemonPage" style="rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="-291.12706249999997" y="-370" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="2" target="3" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Pokemon Form" style="rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="-459.9965625" y="-290" width="102.03" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="3" target="5" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="pokemon collection" style="rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="-295.2755625" y="-290" width="127.97" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="3" target="7" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="pokemon card - group" style="rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="-301.5855625" y="-210" width="140.59" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="7" target="9" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="pokemon card - all pokemon info" style="rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="-335.8305625" y="-130" width="209.08" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="9" target="11" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=none;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="13" target="18">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-580" y="-410" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="form input" style="rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="-450" y="-210" width="81.02" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="5" target="13" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="15" target="18">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Search" style="rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="-122.25756249999995" y="-290" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="3" target="15" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="18">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-602.5999999999999" y="-120" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="useEffect, fetch data&lt;br&gt;data state" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="-650" y="-400" width="130" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

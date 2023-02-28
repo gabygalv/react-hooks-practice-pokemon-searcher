@@ -1,10 +1,10 @@
 import React from "react";
 
-function Search() {
+function Search({setSearchVal}) {
   return (
     <div className="ui search">
       <div className="ui icon input">
-        <input className="prompt" />
+        <input className="prompt" onChange={e => setSearchVal(e.target.value)} />
         <i className="search icon" />
       </div>
     </div>
